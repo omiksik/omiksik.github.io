@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include camera.html %}
 
-Hi! I am a senior scientist at the Microsoft Mixed Reality & AI Lab Zurich, where I spend majority of my time by developing system for cloud-based localization and mapping from crowd-sourced data ([Azure Spatial Anchors](https://azure.microsoft.com/en-us/products/spatial-anchors/)).
+**Hi!** I am a senior scientist at the Microsoft Mixed Reality & AI Lab Zurich, where I spend majority of my time by developing system for cloud-based localization and mapping from crowd-sourced data ([Azure Spatial Anchors](https://azure.microsoft.com/en-us/products/spatial-anchors/)).
 
 I believe in synergy between industry and academia and I have been actively developing collaboration with ETH Zurich and other research institutions. Some of the recent (public) outcomes include [benchmarking localization and mapping for augmented reality (LaMAR)](https://lamar.ethz.ch/), [evaluation of robot task planning over large 3D scene graphs (Taskography)](https://taskography.github.io/), [enabling cross-descriptor visual localization and mapping](https://dsmn.ml/publications/cdvlm.html) or [revisiting camera pose estimation by learning to detect scene landmarks](https://github.com/microsoft/SceneLandmarkLocalization).
 
